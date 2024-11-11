@@ -1,1 +1,1 @@
-## Basic calculatoe website
+## Basic calculator website
